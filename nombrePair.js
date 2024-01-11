@@ -5,7 +5,7 @@
 // Utilisons la boucle for pour afficher les nombres pairs de 2 à 10
 // Utilisons la boucle for pour afficher les nombres impairs de 1 à 10
 let number = 1;
-for ( n; n <= 10; n++) {
+for ( number; number <= 10; number++) {
   if ( number % 2 !== 0 ) {
     console.log( `${number} est un nombre impair`);
   } else {
