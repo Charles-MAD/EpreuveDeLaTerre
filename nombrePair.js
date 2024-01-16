@@ -12,4 +12,4 @@ for ( number; number <= 10; number++) {
     console.log( `${number} est un nombre pair` );
   }
 }
-console.log('Merci pour toutes vos reponses correctes')
+console.log('Merci pour toutes vos reponses correctes');
